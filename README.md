@@ -1,2 +1,2 @@
-# arduino-code
-## Muhammad Tariq
+
+## Author: Muhammad Tariq
